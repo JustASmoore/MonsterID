@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Personal Testing/Lily.unity
+    guid: 15680f515aed3c14f8408527f1a4533e
   m_configObjects: {}
