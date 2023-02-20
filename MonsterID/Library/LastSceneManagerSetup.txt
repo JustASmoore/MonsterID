@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Lv1_Blockout.unity
+- path: Assets/Scenes/Block Outs/Slider Puzzle Blockout.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
