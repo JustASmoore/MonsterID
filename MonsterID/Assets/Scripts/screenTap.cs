@@ -42,7 +42,7 @@ public class screenTap : MonoBehaviour
                     }
                     Color newColor = new Color(1, 1, 1, 1.0f);
                     hit.collider.GetComponent<MeshRenderer>().material.color = newColor;
-                    selectionTimeOut = 3f;
+                    selectionTimeOut = 2f;
 
                     Selected = true;
                     print("selected: " + Selected);
