@@ -210,7 +210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _rigidbody: {fileID: 1053349642229732964}
-  _joystick: {fileID: 0}
+  _joystick: {fileID: 2929252283123773951, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
   _moveSpeed: 10
 --- !u!114 &7074205286899583597
 MonoBehaviour:
