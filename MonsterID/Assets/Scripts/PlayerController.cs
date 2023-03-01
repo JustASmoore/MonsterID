@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
 {
     //Parameters
     [SerializeField] private Rigidbody _rigidbody;
-    [SerializeField] private FixedJoystick _joystick;
+    [SerializeField] private FixedJoystick _joystick; //IT IS THE ONE IN THE SCENE
 
     [SerializeField] private float _moveSpeed;
     
