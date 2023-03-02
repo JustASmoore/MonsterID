@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638127180806267036
-    m_Hash: 3848746855
+      ticks: 638133371871787758
+    m_Hash: 1871332696
   m_LockFileStatus:
     m_FilePath: D:/Unity/GitHub/MonsterID/MonsterID/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638127180806898523
-    m_Hash: 3810387895
+      ticks: 638133371871787758
+    m_Hash: 1649300192
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -3546,6 +3546,7 @@ m_PackageAssets:
         - 1.6.0
         - 1.7.0
         - 1.7.1
+        - 1.8.1
         compatible:
         - 1.0.1
         - 1.1.0-pre.7
@@ -3566,6 +3567,7 @@ m_PackageAssets:
         - 1.6.0
         - 1.7.0
         - 1.7.1
+        - 1.8.1
         verified: 1.4.3
       dependencies:
       - name: com.unity.modules.unitywebrequest
